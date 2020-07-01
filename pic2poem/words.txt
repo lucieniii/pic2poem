@@ -1,0 +1,1000 @@
+1.tench-鲤鱼
+2.goldfish-金鱼
+3.great_white_shark-鱼
+4.tiger_shark-鱼
+5.hammerhead-鱼
+6.electric_ray-鱼
+7.stingray-鱼
+8.cock-鸡
+9.hen-鸡
+10.ostrich-鸟
+11.brambling-燕雀
+12.goldfinch-金翅雀
+13.house_finch-家雀
+14.junco-鸟雀
+15.indigo_bunting-鸟
+16.robin-知更鸟
+17.bulbul-诗人
+18.jay-松鸡
+19.magpie-喜鹊
+20.chickadee-山雀
+21.water_ouzel-河鸟
+22.kite-风筝
+23.bald_eagle-鹰
+24.vulture-鹰
+25.great_grey_owl-枭
+26.European_fire_salamander-龙
+27.common_newt-龙
+28.eft-龙
+29.spotted_salamander-龙
+30.axolotl-龙
+31.bullfrog-蛙
+32.tree_frog-雨蛙
+33.tailed_frog-田鸡
+34.loggerhead-龟
+35.leatherback_turtle-龟
+36.mud_turtle-泥龟
+37.terrapin-水龟
+38.box_turtle-箱龟
+39.banded_gecko-壁虎
+40.common_iguana-龙
+41.American_chameleon-龙
+42.whiptail-龙
+43.agama-飞龙
+44.frilled_lizard-龙
+45.alligator_lizard-龙
+46.Gila_monster-毒龙
+47.green_lizard-绿龙
+48.African_chameleon-龙
+49.Komodo_dragon-龙
+50.African_crocodile-土龙
+51.American_alligator-土龙
+52.triceratops-龙
+53.thunder_snake-雷蛇
+54.ringneck_snake-蛇
+55.hognose_snake-丑蛇
+56.green_snake-碧蛇
+57.king_snake-王蛇
+58.garter_snake-乌梢蛇
+59.water_snake-水蛇
+60.vine_snake-藤蛇
+61.night_snake-夜蛇
+62.boa_constrictor-蟒蛇
+63.rock_python-蚺蛇
+64.Indian_cobra-毒蛇
+65.green_mamba-毒蛇
+66.sea_snake-海蛇
+67.horned_viper-毒蛇
+68.diamondback-毒蛇
+69.sidewinder-毒蛇
+70.trilobite-三叶虫
+71.harvestman-农民
+72.scorpion-蝎
+73.black_and_gold_garden_spider-虫
+74.barn_spider-虫
+75.garden_spider-虫
+76.black_widow-毒虫
+77.tarantula-毒虫
+78.wolf_spider-毒虫
+79.tick-虱
+80.centipede-虫
+81.black_grouse-山鸡
+82.ptarmigan-松鸡
+83.ruffed_grouse-松鸡
+84.prairie_chicken-松鸡
+85.peacock-孔雀
+86.quail-鸟
+87.partridge-鸟
+88.African_grey-鹦
+89.macaw-鹦
+90.sulphur-crested_cockatoo-鹦
+91.lorikeet-鹦
+92.coucal-鹃
+93.bee_eater-鸟
+94.hornbill-鸟
+95.hummingbird-蜂鸟
+96.jacamar-鸟
+97.toucan-鸟
+98.drake-鸭
+99.red-breasted_merganser-鸭
+100.goose-鹅
+101.black_swan-鹅
+102.tusker-象
+103.echidna-鼠
+104.platypus-兽
+105.wallaby-兽
+106.koala-熊
+107.wombat-熊
+108.jellyfish-水虫
+109.sea_anemone-海葵
+110.brain_coral-珊瑚
+111.flatworm-扁虫
+112.nematode-线虫
+113.conch-贝
+114.snail-虫
+115.slug-虫
+116.sea_slug-海虫
+117.chiton-虫
+118.chambered_nautilus-虫
+119.Dungeness_crab-八足
+120.rock_crab-八足
+121.fiddler_crab-八足
+122.king_crab-八足
+123.American_lobster-龙虾
+124.spiny_lobster-龙虾
+125.crayfish-龙虾
+126.hermit_crab-八足
+127.isopod-虫
+128.white_stork-白鸟
+129.black_stork-黑鸟
+130.spoonbill-鸟
+131.flamingo-火鸟
+132.little_blue_heron-青鸟
+133.American_egret-白鸟
+134.bittern-麻鸦
+135.crane-仙鹤
+136.limpkin-禽
+137.European_gallinule-水鸡
+138.American_coot-黑鸭
+139.bustard-鸟
+140.ruddy_turnstone-鸟
+141.red-backed_sandpiper-鸟
+142.redshank-水鸟
+143.dowitcher-鸟
+144.oystercatcher-水鸟
+145.pelican-塘鹅
+146.king_penguin-冰鸟
+147.albatross-青庄
+148.grey_whale-灰鲸
+149.killer_whale-虎鲸
+150.dugong-海牛
+151.sea_lion-海狮
+152.Chihuahua-犬
+153.Japanese_spaniel-猎犬
+154.Maltese_dog-白犬
+155.Pekinese-犬
+156.Shih-Tzu-西子犬
+157.Blenheim_spaniel-猎犬
+158.papillon-蝴蝶犬
+159.toy_terrier-猎犬
+160.Rhodesian_ridgeback-犬
+161.Afghan_hound-猎犬
+162.basset-猎犬
+163.beagle-猎犬
+164.bloodhound-猎犬
+165.bluetick-犬
+166.black-and-tan_coonhound-猎犬
+167.Walker_hound-猎犬
+168.English_foxhound-猎犬
+169.redbone-赤犬
+170.borzoi-猛犬
+171.Irish_wolfhound-猛犬
+172.Italian_greyhound-灰犬
+173.whippet-珍犬
+174.Ibizan_hound-猎犬
+175.Norwegian_elkhound-猎犬
+176.otterhound-猎犬
+177.Saluki-猎犬
+178.Scottish_deerhound-猎犬
+179.Weimaraner-猎犬
+180.Staffordshire_bullterrier-斗牛犬
+181.American_Staffordshire_terrier-猎犬
+182.Bedlington_terrier-猎犬
+183.Border_terrier-猎犬
+184.Kerry_blue_terrier-猎犬
+185.Irish_terrier-猎犬
+186.Norfolk_terrier-猎犬
+187.Norwich_terrier-猎犬
+188.Yorkshire_terrier-猎犬
+189.wire-haired_fox_terrier-猎犬
+190.Lakeland_terrier-猎犬
+191.Sealyham_terrier-猎犬
+192.Airedale-犬
+193.cairn-石冢
+194.Australian_terrier-猎犬
+195.Dandie_Dinmont-猎犬
+196.Boston_bull-牛
+197.miniature_schnauzer-犬
+198.giant_schnauzer-巨犬
+199.standard_schnauzer-犬
+200.Scotch_terrier-犬
+201.Tibetan_terrier-犬
+202.silky_terrier-犬
+203.soft-coated_wheaten_terrier-犬
+204.West_Highland_white_terrier-犬
+205.Lhasa-天堂
+206.flat-coated_retriever-猎犬
+207.curly-coated_retriever-犬
+208.golden_retriever-犬
+209.Labrador_retriever-犬
+210.Chesapeake_Bay_retriever-犬
+211.German_short-haired_pointer-犬
+212.vizsla-犬
+213.English_setter-犬
+214.Irish_setter-犬
+215.Gordon_setter-犬
+216.Brittany_spaniel-犬
+217.clumber-猎犬
+218.English_springer-犬
+219.Welsh_springer_spaniel-犬
+220.cocker_spaniel-
+221.Sussex_spaniel-猎犬
+222.Irish_water_spaniel-猎犬
+223.kuvasz-犬
+224.schipperke-犬
+225.groenendael-牧犬
+226.malinois-牧犬
+227.briard-牧犬
+228.kelpie-犬
+229.komondor-牧犬
+230.Old_English_sheepdog-牧犬
+231.Shetland_sheepdog-牧犬
+232.collie-牧犬
+233.Border_collie-牧犬
+234.Bouvier_des_Flandres-牧犬
+235.Rottweiler-犬
+236.German_shepherd-牧犬
+237.Doberman-猎犬
+238.miniature_pinscher-珍犬
+239.Greater_Swiss_Mountain_dog-山犬
+240.Bernese_mountain_dog-山犬
+241.Appenzeller-糕
+242.EntleBucher-山犬
+243.boxer-猛犬
+244.bull_mastiff-猛犬
+245.Tibetan_mastiff-巨犬
+246.French_bulldog-斗牛犬
+247.Great_Dane-巨犬
+248.Saint_Bernard-犬
+249.Eskimo_dog-雪犬
+250.malamute-犬
+251.Siberian_husky-犬
+252.dalmatian-斑犬
+253.affenpinscher-猴犬
+254.basenji-猎犬
+255.pug-犬
+256.Leonberg-犬
+257.Newfoundland-犬
+258.Great_Pyrenees-白犬
+259.Samoyed-白犬
+260.Pomeranian-珍犬
+261.chow-狮犬
+262.keeshond-犬
+263.Brabancon_griffon-犬
+264.Pembroke-犬
+265.Cardigan-衫
+266.toy_poodle-珍犬
+267.miniature_poodle-珍犬
+268.standard_poodle-珍犬
+269.Mexican_hairless-犬
+270.timber_wolf-狼
+271.white_wolf-白狼
+272.red_wolf-赤狼
+273.coyote-郊狼
+274.dingo-野狼
+275.dhole-野犬
+276.African_hunting_dog-猎犬
+277.hyena-土狼
+278.red_fox-红狐
+279.kit_fox-敏狐
+280.Arctic_fox-白狐
+281.grey_fox-灰狐
+282.tabby-斑猫
+283.tiger_cat-山猫
+284.Persian_cat-白猫
+285.Siamese_cat-猫
+286.Egyptian_cat-猫
+287.cougar-狮
+288.lynx-山猫
+289.leopard-豹
+290.snow_leopard-雪豹
+291.jaguar-捷豹
+292.lion-狮
+293.tiger-虎
+294.cheetah-猎豹
+295.brown_bear-棕熊
+296.American_black_bear-黑熊
+297.ice_bear-冰熊
+298.sloth_bear-懒熊
+299.mongoose-硕鼠
+300.meerkat-猫鼬
+301.tiger_beetle-虎甲
+302.ladybug-虫
+303.ground_beetle-步甲
+304.long-horned_beetle-天牛
+305.leaf_beetle-叶甲
+306.dung_beetle-甲虫
+307.rhinoceros_beetle-犀牛
+308.weevil-象甲
+309.fly-飞虫
+310.bee-蜂
+311.ant-蚁
+312.grasshopper-虫
+313.cricket-虫
+314.walking_stick-杖
+315.cockroach-虫
+316.mantis-虫
+317.cicada-蝉
+318.leafhopper-叶蝉
+319.lacewing-虫
+320.dragonfly-虫
+321.damselfly-豆娘
+322.admiral-将
+323.ringlet-环
+324.monarch-帝王
+325.cabbage_butterfly-蝶
+326.sulphur_butterfly-白蝶
+327.lycaenid-灰蝶
+328.starfish-海星
+329.sea_urchin-海胆
+330.sea_cucumber-海参
+331.wood_rabbit-野兔
+332.hare-野兔
+333.Angora-兔
+334.hamster-仓鼠
+335.porcupine-豪猪
+336.fox_squirrel-松鼠
+337.marmot-鼠
+338.beaver-海狸
+339.guinea_pig-豚鼠
+340.sorrel-兽
+341.zebra-斑马
+342.hog-兽
+343.wild_boar-兽
+344.warthog-兽
+345.hippopotamus-河马
+346.ox-公牛
+347.water_buffalo-水牛
+348.bison-野牛
+349.ram-公羊
+350.bighorn-角羊
+351.ibex-山羊
+352.hartebeest-羊
+353.impala-羊
+354.gazelle-羊
+355.Arabian_camel-兽
+356.llama-兽
+357.weasel-兽
+358.mink-兽
+359.polecat-兽
+360.black-footed_ferret-兽
+361.otter-水兽
+362.skunk-兽
+363.badger-兽
+364.armadillo-兽
+365.three-toed_sloth-兽
+366.orangutan-兽
+367.gorilla-兽
+368.chimpanzee-兽
+369.gibbon-猿
+370.siamang-兽
+371.guenon-兽
+372.patas-赤兽
+373.baboon-兽
+374.macaque-兽
+375.langur-兽
+376.colobus-兽
+377.proboscis_monkey-兽
+378.marmoset-猿
+379.capuchin-兽
+380.howler_monkey-猿
+381.titi-兽
+382.spider_monkey-猿
+383.squirrel_monkey-兽
+384.Madagascar_cat-猫
+385.indri-兽
+386.Indian_elephant-象
+387.African_elephant-象
+388.lesser_panda-熊
+389.giant_panda-熊
+390.barracouta-杖鱼
+391.eel-鱼
+392.coho-鱼
+393.rock_beauty-鱼
+394.anemone_fish-鱼
+395.sturgeon-鱼
+396.gar-鱼
+397.lionfish-鱼
+398.puffer-河鱼
+399.abacus-板
+400.abaya-长袍
+401.academic_gown-衣袍
+402.accordion-琴
+403.acoustic_guitar-琴
+404.aircraft_carrier-巨轮
+405.airliner-鸟
+406.airship-鸟
+407.altar-祭坛
+408.ambulance-命车
+409.amphibian-水鸟
+410.analog_clock-沙漏
+411.apiary-蜂房
+412.apron-肚兜
+413.ashcan-桶
+414.assault_rifle-火器
+415.backpack-包裹
+416.bakery-方糕
+417.balance_beam-木条
+418.balloon-气球
+419.ballpoint-笔
+420.Band_Aid-膏药
+421.banjo-琴
+422.bannister-栏杆
+423.barbell-铁
+424.barber_chair-胡床
+425.barbershop-修面
+426.barn-谷仓
+427.barometer-盘
+428.barrel-桶
+429.barrow-车
+430.baseball-球
+431.basketball-球
+432.bassinet-摇篮
+433.bassoon-笛
+434.bathing_cap-冠
+435.bath_towel-巾帛
+436.bathtub-缸
+437.beach_wagon-车
+438.beacon-灯塔
+439.beaker-杯
+440.bearskin-皮毛
+441.beer_bottle-瓶
+442.beer_glass-瓶
+443.bell_cote-屋
+444.bib-巾帛
+445.bicycle-built-for-two-踏车
+446.bikini-衫
+447.binder-夹
+448.binoculars-双筒
+449.birdhouse-鸟笼
+450.boathouse-船屋
+451.bobsled-长板
+452.bolo_tie-颈带
+453.bonnet-布冠
+454.bookcase-书台
+455.bookshop-书铺
+456.bottlecap-瓶
+457.bow-弓
+458.bow_tie-结
+459.brass-黄铜
+460.brassiere-衫
+461.breakwater-堤
+462.breastplate-甲
+463.broom-帚
+464.bucket-桶
+465.buckle-扣
+466.bulletproof_vest-布甲
+467.bullet_train-龙
+468.butcher_shop-屠铺
+cab-出车
+469.caldron-锅
+470.candle-烛
+471.cannon-火炮
+472.canoe-轻舟
+473.can_opener-短刀
+474.cardigan-衫
+475.car_mirror-镜
+476.carousel-飞马
+477.carpenter's_kit-尺墨
+478.carton-箱
+479.car_wheel-轮轴
+480.cash_machine-箱
+481.cassette-匣
+482.cassette_player-收音匣
+483.castle-庙堂
+484.catamaran-轻舟
+485.CD_player-箱
+486.cello-琴
+487.cellular_telephone-方盒
+488.chain-链
+489.chainlink_fence-围栏
+490.chain_mail-锁子甲
+491.chain_saw-锯
+492.chest-箱
+493.chiffonier-妆镜台
+494.chime-编钟
+495.china_cabinet-瓷柜
+496.Christmas_stocking-袜
+497.church-庙宇
+498.cinema-皮影场
+499.cleaver-刀
+500.cliff_dwelling-崖居
+501.cloak-披风
+502.clog-木鞋
+503.cocktail_shaker-壶
+504.coffee_mug-杯
+505.coffeepot-壶
+506.coil-盘
+507.combination_lock-锁
+508.computer_keyboard-活字
+509.confectionery-糖糕
+510.container_ship-楼船
+511.convertible-车盖
+512.corkscrew-斧斤
+513.cornet-芦管
+514.cowboy_boot-靴
+515.cowboy_hat-冠
+516.cradle-摇篮
+517.crane-吊车
+518.crash_helmet-护首
+519.crate-箱
+520.crib-栅栏
+521.Crock_Pot-锅
+522.croquet_ball-马球
+523.crutch-杖
+524.cuirass-铁甲
+525.dam-堤
+526.desk-案
+527.desktop_computer-方盒
+528.dial_telephone-盒
+529.diaper-布片
+530.digital_clock-盒
+531.digital_watch-念珠
+532.dining_table-几案
+533.dishrag-布
+dishwasher-碗机
+534.Tidisk_brake-盘
+535.dock-码头
+536.dogsled-狗车
+537.dome-圆劵顶
+538.doormat-方布
+539.drilling_platform-岛
+540.drum-鼓
+541.drumstick-圆木
+542.dumbbell-举木
+543.Dutch_oven-锅
+544.electric_fan-风车
+545.electric_guitar-琴
+546.electric_locomotive-车
+547.entertainment_center-勾栏
+548.envelope-双鲤
+549.espresso_maker-壶
+550.face_powder-铅华
+551.feather_boa-羽巾
+552.file-公文
+553.fireboat-舟
+554.fire_engine-水龙
+555.fire_screen-火屏
+556.flagpole-旗杆
+557.flute-长笛
+558.folding_chair-胡床
+559.football_helmet-护首
+560.forklift-车
+561.fountain-泉
+562.fountain_pen-笔
+563.four-poster-卧床
+564.freight_car-车
+565.French_horn-圆管
+566.frying_pan-锅
+567.fur_coat-皮衣
+568.garbage_truck-车
+569.gasmask-假面
+570.gas_pump-气井
+571.goblet-盏
+572.go-kart-车
+573.golf_ball-杆球
+574.golfcart-车
+575.gondola-小舟
+576.gong-锣
+577.gown-长衣
+578.grand_piano-扬琴
+579.greenhouse-亮室
+580.grille-窗格
+581.grocery_store-商铺
+582.guillotine-斩台
+583.hair_slide-钗
+584.hair_spray-头油；刨花水
+585.half_track-车
+586.hammer-锤
+587.hamper-食盒
+588.hand_blower-吹尘箱
+589.hand-held_computer-算盘
+590.handkerchief-手帕
+591.hard_disc-铁符
+592.harmonica-口琴
+593.harp-竖琴
+594.harvester-车
+595.hatchet-斧斤
+596.holster-皮套
+597.home_theater-皮影
+598.honeycomb-蜂房
+599.hook-钩
+600.hoopskirt-长裙
+603. horizontal_bar-横木
+604. horse_cart-马车
+605. hourglass-沙漏
+606. iPod-入耳
+607. iron-铁
+608. jack-o'-lantern-灯
+609. jean-裤
+610. jeep-野车
+611. jersey-衫
+612. jigsaw_puzzle-巧板
+613. jinrikisha-车
+614. joystick-杆
+615. kimono-和服
+616. knee_pad-布
+617. knot-结
+618. lab_coat-白衣
+619. ladle-长勺
+620. lampshade-灯伞
+621. laptop-板
+622. lawn_mower-剪草
+623. lens_cap-盖
+624. letter_opener-刀
+625. library-文库
+626. lifeboat-生船
+627. lighter-打火机
+628. limousine-车
+629. liner-班轮
+630. lipstick-口红
+631. Loafer-鞋
+632. lotion-水
+633. loudspeaker-扩音
+634. loupe-放大镜
+635. lumbermill-木厂
+636. magnetic_compass-罗盘
+637. mailbag-包
+638. mailbox-信箱
+639. maillot-泳衣
+640. maillot-秋衣
+641. manhole_cover-井盖
+642. maraca-沙球
+643. marimba-木琴
+644. mask-面具
+645. matchstick-杆
+646. maypole-花柱
+647. maze-迷宫
+648. measuring_cup-杯
+649. medicine_chest-药柜
+650. megalith-巨石
+651. microphone-声
+652. microwave-波
+653. military_uniform-衫
+654. milk_can-奶壶
+655. minibus-公车
+656. miniskirt-短裙
+657. minivan-车
+658. missile-弹
+659. mitten-手套
+660. mixing_bowl-碗
+661. mobile_home-屋
+662. Model_T-车
+663. modem-工具
+664. monastery-人
+665. monitor-工具
+666. moped-车
+667. mortar-炮
+668. mortarboard-方帽
+669. mosque-寺
+670. mosquito_net-蚊帐
+671. motor_scooter-板车
+672. mountain_bike-车
+673. mountain_tent-屋
+674. mouse-鼠
+675. mousetrap-兽夹
+676. moving_van-车
+677. muzzle-炮口
+678. nail-钉
+679. neck_brace-颈托
+680. necklace-颈链
+681. nipple-乳头
+682. notebook-手册
+683. obelisk-尖塔
+684. oboe-长管
+685. ocarina-陶笛
+686. odometer-工具
+687. oil_filter-工具
+688. organ-琴
+689. oscilloscope-工具
+690. overskirt-半裙
+691. oxcart-牛车
+692. oxygen_mask-面具
+693. packet-包
+694. paddle-船桨
+695. paddlewheel-轮
+696. padlock-锁
+697. paintbrush-刷
+698. pajama-衫
+699. palace-宫
+699: panpipe-笛声
+700: paper towel-纸巾
+701: parachute-降落
+702: parallel bars-两横
+703: park bench-园坐
+704: parking meter-时表
+705: passenger car-车
+706: patio-露台
+707: pay phone-公话
+708: pedestal-支架
+709: pencil box-笔枕
+710: pencil sharpener-笔刀
+711: perfume-沉香
+712: Petri dish-盖容
+713: photocopier-印机
+714: pick-锄
+715: pickelhaube-帽
+716: picket fence-篱栏
+717: pickup-车
+718: pier-船桥
+719: piggy bank-钱
+720: pill bottle-药
+721: pillow-枕
+722: ping pong ball-球
+723: pinwheel-风车
+724: pirate-海贼
+725: pitcher-投
+726: plane-飞机
+727: planetarium-天星
+728: plastic bag-收
+729: plate rack-餐具
+730: plow-耕农
+731: plunger-水塞
+732: Polaroid camera-影相
+733: pole-竿
+734: police van-警车
+735: poncho-披风
+736: pool table-台桌
+737: pop bottle-气瓶
+738: pot-壶
+739: potter's wheel-陶盘
+740: power drill-入地
+741: prayer rug-坐
+742: printer-打印
+743: prison-监狱
+744: projectile-投掷
+745: projector-投放
+746: puck-冰球
+747: punching bag-击打
+748: purse-钱包
+749: quill-羽笔
+750: quilt-眠被
+751: racer-竞
+752: racket-球拍
+753: radiator-暖气
+754: radio-收音
+755: radio telescope-望远
+756: rain barrel-接雨
+757: recreational vehicle-闲车
+758: reel-卷影
+759: reflex camera-影相
+760: refrigerator-冰冷
+761: remote control-遥控
+762: restaurant-餐食
+763: revolver-短枪
+764: rifle-长枪
+765: rocking chair-躺椅
+766: rotisserie-炙肉
+767: rubber eraser-橡皮
+768: rugby ball-球
+769: rule-尺
+770: running shoe-鞋
+771: safe-安保
+772: safety pin-扣针
+773: saltshaker-盐瓶
+774: sandal-凉鞋
+775: sarong-围裙
+776: sax-音乐
+777: scabbard-装
+778: scale-天平
+779: school bus-校车
+780: schooner-帆船
+781: scoreboard-记分
+782: screen-屏幕
+783: screw-定
+784: screwdriver-定刀
+785: seat belt-座带
+786: sewing machine-缝机
+787: shield-护
+788: shoe shop-鞋店
+789: shoji-木障
+790: shopping basket-提物
+791: shopping cart-物车
+792: shovel-铁铲
+793: shower cap-浴帽
+794: shower curtain-浴帘
+795: ski-滑雪
+796: ski mask-雪面
+797: sleeping bag-睡包
+798: slide rule-滑尺
+799: sliding door-移门
+800: slot-水沟
+801: snorkel-管
+802: snowmobile-车
+803: snowplow-扫雪
+804: soap dispenser-泡
+805: soccer ball-球
+806: sock-短袜
+807: solar dish-阳光
+808: sombrero-宽笠
+809: soup bowl-汤碗
+810: space bar-空格
+811: space heater-热机
+812: space shuttle-飞机
+813: spatula-抹刀
+814: speedboat-快船
+815: spider web-虫网
+816: spindle-轴
+817: sports car-车
+818: spotlight-光
+819: stage-曲台
+820: steam locomotive-汽机
+821: steel arch bridge-拱桥
+822: steel drum-石桶
+823: stethoscope-闻声
+824: stole-取
+825: stone wall-石壁
+826: stopwatch-时表
+827: stove-火穴
+828: strainer-净机
+829: streetcar-轨车
+830: stretcher-担架
+831: studio couch-沙发
+832: stupa-塔
+833: submarine-潜船
+834: suit-套衣
+835: sundial-日表
+836: sunglass-阳精
+837: sunglasses-阳精
+838: sunscreen-阳霜
+839: suspension bridge-拉桥
+840: swab-药签
+841: sweatshirt-动衣
+842: swimming trunks-水衣
+843: swing-动
+844: switch-开关
+845: syringe-针
+846: table lamp-桌光
+847: tank-油
+848: tape player-放机
+849: teapot-茶杯
+850: teddy-子路
+851: television-见机
+852: tennis ball-网球
+853: thatch-草
+854: theater curtain-布
+855: thimble-针
+856: thresher-打机
+857: throne-王坐
+858: tile roof-房梁
+859: toaster-包机
+860: tobacco shop-烟
+861: toilet seat-马桶
+862: torch-火炬
+863: totem pole-图柱
+864: tow truck-拖车
+865: toyshop-玩铺
+866: tractor-拉机
+867: trailer truck-拖车
+868: tray-托盆
+869: trench coat-风衣
+870: tricycle-三车
+871: trimaran-三船
+872: tripod-三架
+873: triumphal arch-门
+874: trolleybus-径车
+875: trombone-长号
+876: tub-水盆
+877: turnstile-转门
+878: typewriter keyboard-字机
+879: umbrella-雨
+880: unicycle-独车
+881: upright-直立
+882: vacuum-真空
+883: vase-花瓶
+884: vault-金屋
+885: velvet-羽毛
+886: vending machine-铺机
+887: vestment-投金
+888: viaduct-架桥
+889: violin-瑶琴
+890: volleyball-排球
+891: waffle iron-铁压
+892: wall clock-挂表
+893: wallet-金袋
+894: wardrobe-衣匣
+895: warplane-斗机
+896: washbasin-水盆
+897: washer-衣机
+898: water bottle-水瓶
+899: water jug-水瓶
+900: water tower-水塔
+901: whiskey jug-酒壶
+902: whistle-口哨
+903: wig-假发
+904: window screen-纱窗
+905: window shade-遮光帘
+906: Windsor tie-领带
+907: wine bottle-红酒瓶
+908: wing-翼
+909: wok-锅
+910: wooden spoon-木匙
+911: wool-羊毛
+912: worm fence-栏
+913: wreck-沉船
+914: yawl-船
+915: yurt-帐篷
+916: web site-网站
+917: comic book-书
+918: crossword puzzle-字谜
+919: street sign-路标
+920: traffic light-红绿灯
+921: book jacket-书夹
+922: menu-菜单
+923: plate-板
+924: guacamole-酱
+925: consomme-汤
+926: hot pot-火锅
+927: trifle-蛋糕
+928: ice cream-冰淇淋
+929: ice lolly-冰棍
+930: French loaf-面包
+931: bagel-饼
+932: pretzel-饼
+933: cheeseburger-汉堡
+934: hotdog-热狗
+935: mashed potato-土豆泥
+936: head cabbage-卷心菜
+937: broccoli-西兰花
+938: cauliflower-菜花
+939: zucchini-西葫芦
+940: spaghetti squash-鱼翅瓜
+941: acorn squash-小青南瓜
+942: butternut squash-冬南瓜
+943: cucumber-黄瓜
+944: artichoke-洋蓟
+945: bell pepper-甜椒
+946: cardoon-刺棘蓟
+947: mushroom-蘑菇
+948: Granny Smith-人
+949: strawberry-草莓
+950: orange-橙色
+951: lemon-柠檬
+952: fig-无花果
+953: pineapple-菠萝
+954: banana-香蕉
+955: jackfruit-菠萝蜜
+956: custard apple-苹果
+957: pomegranate-石榴
+958: hay-干草
+959: carbonara-意面
+960: chocolate sauce-酱
+961: dough-面团
+962: meat loaf-肉面包
+963: pizza-披萨
+964: potpie-肉饼
+965: burrito-玉米饼
+966: red wine-红酒
+967: espresso-咖啡
+968: cup-杯
+969: eggnog-蛋酒
+970: alp-高山
+971: bubble-泡沫
+972: cliff-悬崖
+973: coral reef-珊瑚礁
+974: geyser-喷泉
+975: lakeside-湖边
+976: promontory-海角
+977: sandbar-沙洲
+978: seashore-海滨
+979: valley-山谷
+980: volcano-火山
+981: ballplayer-球员
+982: groom-新郎
+983: scuba diver-潜水员
+984: rapeseed-种子
+985: daisy-人
+986: yellow lady's slipper-履
+987: corn-玉米
+988: acorn-橡子
+989: hip-尻
+990: buckeye-七叶树
+991: coral fungus-菌
+992: agaric-木耳
+993: gyromitra-雨
+994: stinkhorn-雨
+995: earthstar-地球
+996: hen-of-the-woods-花
+997: bolete-雨
+998: ear-耳
+999: toilet tissue-纸巾

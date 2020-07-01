@@ -6,7 +6,7 @@ import sys
 
 def getdict():
     dic = []
-    with open("/root/pic2poem/picclassify/dict.txt", "r") as f:
+    with open("pic2poem/picclassify/dict.txt", "r") as f:
         while True:
             lin = f.readline()
             if lin is "":

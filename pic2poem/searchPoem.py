@@ -8,7 +8,7 @@ sentNum = 4
 
 
 def gen(acExtent):
-    f = open("/root/pic2poem/poetry_generator/poetry.txt", "r")
+    f = open("pic2poem/poetry_generator/poetry.txt", "r")
     txt = f.readlines()
     foundPoems = []
     for line in txt:

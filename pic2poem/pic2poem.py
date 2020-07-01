@@ -30,10 +30,10 @@ if __name__ == '__main__':
 
     # os.popen(cmd, 'r', 1)
     if sys.argv[2] == '0':
-        cmd = "/root/pic2poem/poetry_generator/poetry_gen.py"
+        cmd = "pic2poem/poetry_generator/poetry_gen.py"
         out_bytes = subprocess.check_output(['python3', cmd, '--mode', 'sample', '--head', hint])
     else:
-        cmd = "/root/pic2poem/searchPoem.py"
+        cmd = "pic2poem/searchPoem.py"
         out_bytes = subprocess.check_output(['python3', cmd, hint])
     out_text = out_bytes.decode('utf-8')
     # out_text = u'人安十年意，篱拜发新舍。栏盖何日见，蜂随花老齐。'

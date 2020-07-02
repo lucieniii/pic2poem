@@ -1,0 +1,23 @@
+/**index.wxss**/
+.display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 40rpx;
+}
+
+.button-display {
+  margin: 30rpx;
+  background-color: #04BE02;
+  color: #FFF;
+}
+
+
+
+.loading-display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 40rpx;
+  color: grey;
+}

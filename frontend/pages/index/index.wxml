@@ -1,0 +1,25 @@
+<!--index.wxml-->
+<view class="display">为您的图片作诗</view>
+
+
+<view class="display">
+  <image src="{{ result }}" mode="widthFix" />
+</view>
+
+<view class="loading-display">{{ info }}</view> <!-- 是否上传成功 -->
+<view class="display">{{ debug }}</view>
+<!-- <view class="display">{{ poem }}</view>  -->
+<view class="display">
+  <textarea align="center" value="{{ sentence1 }}" 
+  style="text-align: center; height: {{ textareaHeight }}px;"></textarea>
+</view>
+<view class="display">{{ sentence2 }}</view>
+<view class="display">
+<radio-group bindchange="chooseType" >
+  <label class="checkbox" wx:for="{{items}}">
+    <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.value}}
+  </label>
+</radio-group>
+</view>
+<button class="button-display" bindtap="again" id="again" style="display: {{ setShow }};">重新生成</button>
+<button class="button-display" bindtap="myimg">选择图片</button>

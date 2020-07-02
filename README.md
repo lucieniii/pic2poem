@@ -1,1 +1,1 @@
-# backend of pic2poem 
+# pic2poem 

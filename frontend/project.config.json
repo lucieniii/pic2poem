@@ -18,12 +18,15 @@
 			"ignore": [],
 			"disablePlugins": [],
 			"outputPath": ""
-		}
+		},
+		"useIsolateContext": true,
+		"useCompilerModule": true,
+		"userConfirmedUseCompilerModuleSwitch": false
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.10.1",
 	"appid": "wx35c31891c28430ce",
-	"projectname": "ADemo",
+	"projectname": "pic2poem",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

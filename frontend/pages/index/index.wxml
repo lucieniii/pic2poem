@@ -1,25 +1,30 @@
 <!--index.wxml-->
-<view class="display">为您的图片作诗</view>
 
+<image class="backimage" style="background-image:url('http://m.qpic.cn/psb?/V13IVwtA0Vpq8L/OWvkcUEBTKFv5ZItuxkotOF5EVX2pbDQ7*OHeN0NX8A!/b/dL8AAAAAAAAA&bo=3gHLAgAAAAARFzY!&rf=viewer_4'); opacity:{{1}}" mode="scaleToFill">
+</image>
 
 <view class="display">
-  <image src="{{ result }}" mode="widthFix" />
+	<image src="./tips.png" mode="widthFix" style="width: 62%"></image>
+</view>
+
+
+<view class="display" wx:if="{{result != ''}}">
+	<image src="{{ result }}" mode="widthFix" style="width: 90%; box-shadow:2px 2px 10px #0000003f;" />
 </view>
 
 <view class="loading-display">{{ info }}</view> <!-- 是否上传成功 -->
 <view class="display">{{ debug }}</view>
 <!-- <view class="display">{{ poem }}</view>  -->
 <view class="display">
-  <textarea align="center" value="{{ sentence1 }}" 
-  style="text-align: center; height: {{ textareaHeight }}px;"></textarea>
+	<textarea align="center" value="{{ sentence1 }}" style="text-align: center; height: {{ textareaHeight }}px; text-shadow:1px 1px 1px #999999;"></textarea>
 </view>
-<view class="display">{{ sentence2 }}</view>
+<view class="display" style="text-shadow:1px 1px 1px #999999;">{{ sentence2 }}</view>
 <view class="display">
-<radio-group bindchange="chooseType" >
-  <label class="checkbox" wx:for="{{items}}">
-    <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.value}}
-  </label>
-</radio-group>
+	<radio-group bindchange="chooseType">
+		<label class="checkbox" wx:for="{{items}}">
+			<radio color="#888888" value="{{item.name}}" checked="{{item.checked}}"/>{{item.value}}
+		</label>
+	</radio-group>
 </view>
 <button class="button-display" bindtap="again" id="again" style="display: {{ setShow }};">重新生成</button>
 <button class="button-display" bindtap="myimg">选择图片</button>

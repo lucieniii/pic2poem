@@ -2,32 +2,40 @@
 Page({
   // 页面的初始数据
   data: {
-    result: 'homepic.png', // 上传图片的本地地址
+    // result: 'homepic.png',
+    result: '', // 上传图片的本地地址
     info: '', // 上传成功信息
     debug: '', // 上传图片的服务器地址
-    // poem: '', 
+    // poem: '',
     sentence1: '',
     sentence2: '', // 分成两句
     typeG: 0,
     imagePath: '',
-    items: [
-      { name: 'AI', value: 'AI作诗', checked: 'true'},
-      { name: 'Search', value: '诗歌匹配'},
+    items: [{
+        name: 'AI',
+        value: 'AI作诗',
+        checked: 'true'
+      },
+      {
+        name: 'Search',
+        value: '诗歌匹配'
+      },
     ]
   },
-  chooseType: function() {
-      this.data.typeG ^= 1;
-      console.log(this.data.typeG);
+
+  chooseType: function () {
+    this.data.typeG ^= 1;
+    console.log(this.data.typeG);
   },
 
-  myimg: function() {
+  myimg: function () {
     var that = this;
     wx.chooseImage({
       count: 1, // 最多可以选择的图片张数
       sizeType: ['original', 'compressed'], // original 原图，compressed 压缩图，默认二者都有
       sourceType: ['album', 'camera'], // album 从相册选图，camera 使用相机，默认二者都有
 
-      success: function(res) {
+      success: function (res) {
         // 返回选定照片的本地文件路径列表
         var tempFilePaths = res.tempFilePaths; // tempFilePath 可以作为 img 标签的 src 属性显示图片
         that.setData({
@@ -48,7 +56,7 @@ Page({
             'Content-Type': 'multipart/form-data'
           },
 
-          success: function(res) {
+          success: function (res) {
             that.data.imagePath = res.data;
             console.log(1);
             that.setData({
@@ -63,7 +71,7 @@ Page({
                 'Content-type': 'application/json'
               },
 
-              success: function(res) {
+              success: function (res) {
                 var returnJSON = res.data;
                 console.log(returnJSON);
 
@@ -74,7 +82,7 @@ Page({
                 for (var index = 0; index <= returnJSON.length; index++) {
                   if (returnJSON[index] == '。')
                     count++;
-                    /*
+                  /*
                   if (returnJSON[index] == '*')
                     returnJSON[index] = "之"
                     returnJSON = returnJSON.slice(0, index) + "之" + returnJSON.slice(index);*/
@@ -84,7 +92,7 @@ Page({
                 if (errSign <= -1 && errSign2 <= -1 && count > 0) {
                   returnJSON = returnJSON.split('。');
                   var poem = "";
-                  for (var index = 0; index <count; index++) {
+                  for (var index = 0; index < count; index++) {
                     poem += returnJSON[index] + "。\n"
                   }
                   console.log(poem);
@@ -104,20 +112,20 @@ Page({
               }
             });
           },
-          fail: function() {
+          fail: function () {
             that.setData({
               info: '上传失败'
             });
           },
-          complete: function() {}
+          complete: function () {}
         });
       },
-      fail: function() {},
-      complete: function() {}
+      fail: function () {},
+      complete: function () {}
     });
   },
 
-  again: function() {
+  again: function () {
     var that = this;
     that.setData({
       info: 'AI 正在为您生成诗句...',
@@ -131,7 +139,7 @@ Page({
         'Content-type': 'application/json'
       },
 
-      success: function(res) {
+      success: function (res) {
         var returnJSON = res.data;
         console.log(returnJSON);
 
@@ -148,7 +156,7 @@ Page({
         if (errSign <= -1 && errSign2 <= -1 && count > 0) {
           returnJSON = returnJSON.split('。');
           var poem = "";
-          for (var index = 0; index <count; index++) {
+          for (var index = 0; index < count; index++) {
             poem += returnJSON[index] + "。\n"
           }
           console.log(poem);
@@ -170,7 +178,7 @@ Page({
   },
 
   // 生命周期函数 监听页面加载
-  onLoad: function(options) {
+  onLoad: function (options) {
     this.setData({
       setShow: 'none',
       textareaHeight: '0',
@@ -178,5 +186,5 @@ Page({
   },
 
   // 生命周期函数 监听页面初次渲染完成
-  onReady: function() {}
+  onReady: function () {}
 });

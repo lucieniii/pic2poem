@@ -18,7 +18,7 @@
 <view class="display">
 	<textarea align="center" value="{{ sentence1 }}" style="text-align: center; height: {{ textareaHeight }}px; text-shadow:1px 1px 1px #999999;"></textarea>
 </view>
-<view class="display">{{ sentence2 }}</view>
+<view class="display" style="text-shadow:1px 1px 1px #999999;">{{ sentence2 }}</view>
 <view class="display">
 	<radio-group bindchange="chooseType">
 		<label class="checkbox" wx:for="{{items}}">
